@@ -2,8 +2,8 @@
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ### Links
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/dinoferre/Frontend-Mentor-09-Order-summary-component.git
+- Live Site URL: https://dinoferre.github.io/Frontend-Mentor-09-Order-summary-component
 
 ### Built with
 - Semantic HTML5 markup
